@@ -1,2 +1,2 @@
 # Basic-Programming
-Repositorio para el curso de Programación básica de la U Fidélitas
+Repositorio para el curso de Programación Básica de la U Fidélitas
